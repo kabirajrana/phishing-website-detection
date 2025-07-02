@@ -5,4 +5,7 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-
+pandas
+requests
+streamlit-option-menu
+streamlit-lottie
